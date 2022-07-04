@@ -1,2 +1,0 @@
-O serviços de streaming NETFLIX e Amazon seriam sistemas multimídias envolvendo mídia discreta e mídia continua, com interação.
-Temos como mídia discreta os títulos dos filmes e/ou séries, e a sinopse desses contéudos, ao mesmo tempo que utilizamos essas informações para selecionarmos aquilo que queremos assistir, passando a receber a partir do play no conteúdo, a mídia continua, ou seja, voz e vídeo, ao mesmo tempo que mídia discreta continua sendo exibida, como as informações do contéudo enquanto se assiste, ou mesmo as legenda que podem ser habilitadas.
