@@ -1,6 +1,7 @@
  let count = 0;
 
 const CURRENT_NUMBER = document.getElementById('currentNumber');
+CURRENT_NUMBER.addEventListener("click",CURRENT_NUMBER,count++);
 
 function increment() { 
 	if(count < 10){
